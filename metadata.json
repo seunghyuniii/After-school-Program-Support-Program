@@ -1,0 +1,6 @@
+{
+  "name": "방과후학교 정산 자동화 프로그램",
+  "description": "리로스쿨에서 추출한 방과후 신청 현황 엑셀 파일을 업로드하여 강좌별 신청 인원, 시수 정산, 학생별 수강료 계산 및 강좌별 출석부를 자동으로 생성해 주는 행정 업무 처리 프로그램입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
